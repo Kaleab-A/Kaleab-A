@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Web Dev mainly.
 - 📫 How to reach me: kaleabazezew0@gmail.com
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleab-a&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleab-a&layout=donut)](https://github.com/kaleab-a/github-readme-stats)
 
 
 <!--
