@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Dev mainly.
+- 🔭 Fascinations: The Human Brain, Deep Learning, Languages, Music
 - 📫 How to reach me: kaleabazezew0@gmail.com
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleab-a&layout=donut)](https://github.com/kaleab-a/github-readme-stats)
