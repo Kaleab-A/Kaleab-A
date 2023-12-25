@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1> HI! ሰላም 👋🏾  </h1>
 
-- 🔭 Fascinations: The Human Brain, Deep Learning, Languages, Music
-- 📫 How to reach me: kaleabazezew0@gmail.com
-  
+## - 🔭 <b>Fascinations</b>: The Human Brain, Deep Learning, Languages, Music
+## - 📫 <b>How to reach me</b>: kaleabazezew0@gmail.com
+## So Far:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleab-a&layout=donut)](https://github.com/kaleab-a/github-readme-stats)
 
 
